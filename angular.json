@@ -85,7 +85,7 @@
               {
                 "input": "node_modules/@progress/kendo-theme-material/dist/all.css"
               },
-              "src/styles.css"
+              "src/styles.scss"
             ],
             "scripts": [],
             "assets": [
